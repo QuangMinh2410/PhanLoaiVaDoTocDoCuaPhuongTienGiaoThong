@@ -44,7 +44,7 @@ _Đề tài áp dụng mạng học sâu (YOLO) và xử lý video để phát h
      - **Khoảng cách pixel:** Tính từ bounding box giữa hai khung hình.
      - **Thông số thực tế:** Chuyển đổi pixel sang mét bằng `real_distance_per_pixel`.
    - Công thức chuyển đổi:  
-   $$ \text{Tốc độ (km/h)} = \left( \frac{\text{Khoảng cách thực (m)}}{\text{Thời gian (s)}} \right) \times 3.6 $$  
+   Tốc độ(km/h) = (Khoảng cách thực(m) / (Thời Gian(s)) * 3.6
 3. **Hiển thị kết quả:**
    - Bounding box được tô màu:
      - **Xanh lá cây:** Nếu tốc độ phương tiện ≤ ngưỡng cho phép (80 km/h).  
