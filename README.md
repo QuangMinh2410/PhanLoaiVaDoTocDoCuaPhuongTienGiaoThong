@@ -95,6 +95,4 @@ python Nhom6_PhanLoaiVaDoTocDoCuaPhuongTienGiaoThong.py
 
 ---
 
-© 2025 NHÓM AI-1, TRƯỜNG ĐẠI HỌC TRÍ TUỆ NHÂN TẠO  
-
-Nếu bạn cần hỗ trợ cụ thể hơn hoặc muốn sửa đổi thêm, hãy nói tôi nhé! 😊
+© 2025 NHÓM 6, PHÂN LOẠI VÀ ĐO TỐC ĐỘ CỦA PHƯƠNG TIỆN GIAO THÔNG, TRÍ TUỆ NHÂN TẠO, TRƯỜNG ĐẠI HỌC Đại NAM 
